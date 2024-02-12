@@ -1,4 +1,4 @@
-# Enforce Screen Time on Minecraft
+# Enforce Screen Time upon Minecraft on Mac
 
 This is a OSX automation script that allows parents to police how long the kids can play Minecraft on a Mac via Apple's Screen Time policy. When time is up, the game will be frozen. After approval from the parents, the game will resume.
 
